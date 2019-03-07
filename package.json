@@ -1,0 +1,14 @@
+{
+  "name": "koa-patterns",
+  "version": "1.0.0",
+  "description": "koa-patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raindew",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
